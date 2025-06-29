@@ -37,7 +37,6 @@ npm start
 - Website URL analysis
 - Technology detection
 - Link counting
-- Real-time analysis status
 - Analysis history
 
 ## Technologies
